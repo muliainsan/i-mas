@@ -20,7 +20,7 @@ I-mas adalah aplikasi berbasis java yang digunakan untuk memantau absensi siswa 
 
     Tampilan Siswa Masuk
     
-![](siswa%20masuk 0.PNG)
+![](siswa%20masuk%200.PNG)
 
 
 
