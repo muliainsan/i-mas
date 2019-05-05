@@ -11,12 +11,17 @@ I-mas adalah aplikasi untuk absensi siswa menggunakan sidikjari(secugen) dan tel
 
 
 
-   
-   
+    Tampilan Registrasi
 ![](regis%200.PNG)
 
 
+
+
+    Tampilan Siswa Masuk
 ![](siswa%20masuk 0.PNG)
 
 
-![](siswa%20pulang%00.PNG)
+
+
+    Tampilan Siswa Pulang
+![](siswa%20pulang%200.PNG)
